@@ -9,6 +9,7 @@ public class DentalCareApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(DentalCareApplication.class, args);
+		
 	}
 
 }
